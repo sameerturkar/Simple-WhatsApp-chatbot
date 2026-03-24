@@ -1,6 +1,6 @@
 # Simple WhatsApp Chatbot (Spring Boot)
 
-A basic WhatsApp chatbot built using Java Spring Boot that can receive and respond to messages in real-time using Twilio API.
+A basic WhatsApp chatbot built using Java Spring Boot that can receive and respond to messages in real-time using Spring boot API.
 
 ## 🚀 Features
 - Send & receive WhatsApp messages
